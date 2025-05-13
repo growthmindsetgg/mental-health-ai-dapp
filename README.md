@@ -4,14 +4,13 @@ A decentralized application to provide AI-powered mental health support and esca
 
 ## Features
 - Anonymous mental health sessions.
-- AI chatbot (OpenAI GPT-4).
+- AI chatbot 
 - On-chain logging of session metadata.
 - Optional alerts for professional help.
 
 ## Stack
 - Solidity
 - Hardhat
-- OpenAI API
 - Vanilla JavaScript frontend
 
 ## To Run
